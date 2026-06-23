@@ -1,1 +1,52 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
+header {
+          border: 10px solid lightblue;
+          background-color: rgb(58, 127, 255);
+          padding: 10px;
+          margin: 10px;
+          background-clip: content-box;
+          color:white;
+        }
+        nav {
+          border: 10px solid lightblue;
+          background-color: rgb(255, 145, 0);
+          padding: 10px;
+          margin: 10px;
+          background-clip: content-box;
+        }
+        main {
+          border: 10px solid gainsboro;
+          background-color: lightgrey;
+          padding: 10px;
+          margin: 10px;
+          background-clip: content-box;
+        }
+        section {
+          border:10px solid rgb(182, 179, 179);
+          background-color: yellow;
+          padding: 10px;
+          margin: 10px;
+          background-clip: content-box;
+        }
+        article {
+          border:10px dotted rgb(101, 196, 98);
+          background-color: green;
+          padding: 10px;
+          margin: 10px;
+          background-clip: content-box;
+        }
+        aside {
+          border:10px solid rgb(182, 179, 179);
+          background-color: purple;
+          padding: 10px;
+          margin: 10px;
+          background-clip: content-box;
+        }
+        footer {
+          border: 10px solid rgb(180, 179, 180);
+           background-color: black;
+          padding: 10px;
+          margin: 10px;
+          background-clip: content-box;
+          color: white;
+        }

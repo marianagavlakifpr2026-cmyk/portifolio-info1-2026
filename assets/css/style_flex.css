@@ -12,7 +12,7 @@
   height: 50px;
   margin: 10px;
   padding: 10px;
-  text-align: start;  
+  justify-content: start;
 }
 
 .quadrado_vermelho {
@@ -22,7 +22,7 @@
   height: 50px;
   margin: 10px;
   padding: 10px;
-  text-align: center;  
+  justify-content: center;  
 }
 
 .quadrado_amarelo {
@@ -32,5 +32,5 @@
   height: 50px;
   margin: 10px;
   padding: 10px;
-  text-align: end;
+  justify-content: end;
 }

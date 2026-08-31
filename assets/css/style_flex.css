@@ -3,6 +3,7 @@
   justify-content: center;
   flex-direction: row;
   background-color: grey;
+  align-items: center;
 }
 
 .quadrado_azul {

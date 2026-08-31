@@ -7,6 +7,7 @@
 
 .quadrado_azul {
   background-color: blue;
+   flex-direction: row;
   width: 50px;
   height: 50px;
   margin: 10px;
@@ -16,6 +17,7 @@
 
 .quadrado_vermelho {
   background-color: red;
+   flex-direction: row;
   width: 50px;
   height: 50px;
   margin: 10px;
@@ -25,6 +27,7 @@
 
 .quadrado_amarelo {
   background-color: yellow;
+   flex-direction: row;
   width: 50px;
   height: 50px;
   margin: 10px;

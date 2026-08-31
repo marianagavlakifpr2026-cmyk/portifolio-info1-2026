@@ -5,6 +5,15 @@
   background-color: grey;
 }
 
+.quadrado_azul {
+  background-color: blue;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
+  text-align: start;  
+}
+
 .quadrado_vermelho {
   background-color: red;
   width: 50px;
@@ -12,4 +21,13 @@
   margin: 10px;
   padding: 10px;
   text-align: center;  
+}
+
+.quadrado_amarelo {
+  background-color: yellow;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
+  text-align: end;
 }
